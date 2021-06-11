@@ -1,0 +1,132 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+}
+
+h1{
+  font-size: 50px;
+  margin-top: 0;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+h2{
+  color:
+  margin-top: 20px;
+  font-family: 'Merriweather', serif;
+}
+
+h3{
+  font-size: 25px;
+}
+
+hr{
+  width: 10%;
+  display: grid ;
+}
+.web{
+  text-decoration: underline;
+}
+.links{
+  margin-top: 20px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: #11999E;
+}
+
+.cloud1{
+  position: relative;
+  left: 250px;
+}
+
+.cloud2{
+  position: relative;
+  bottom: 200px;
+}
+
+.mountain{
+position: relative;
+right: 80px;
+}
+
+.woman{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.computer{
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 20px;
+}
+
+.chilli{
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin-left: 20px;
+}
+
+.skill-row{
+  line-height: 2;
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  margin: auto;
+  padding: 20px;
+}
+
+.middle-container{
+  padding-bottom: 20px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.btn{
+  background: #3DF640;
+   background-image: -webkit-linear-gradient(top, #3DF640, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3DF640, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3DF640, #1E62D0);
+   background-image: -o-linear-gradient(top, #3DF640, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3DF640, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 40px;
+   -webkit-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   -moz-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   box-shadow: 1px 1px 20px 0 #FFFFFF;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn{
+  border: solid #DD380D 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
